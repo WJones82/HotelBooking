@@ -1,0 +1,11 @@
+C:\Users\walte\source\repos\HotelBooking\HotelBooking\bin\Debug\netcoreapp2.1\HotelBooking.deps.json
+C:\Users\walte\source\repos\HotelBooking\HotelBooking\bin\Debug\netcoreapp2.1\HotelBooking.runtimeconfig.json
+C:\Users\walte\source\repos\HotelBooking\HotelBooking\bin\Debug\netcoreapp2.1\HotelBooking.runtimeconfig.dev.json
+C:\Users\walte\source\repos\HotelBooking\HotelBooking\bin\Debug\netcoreapp2.1\HotelBooking.dll
+C:\Users\walte\source\repos\HotelBooking\HotelBooking\bin\Debug\netcoreapp2.1\HotelBooking.pdb
+C:\Users\walte\source\repos\HotelBooking\HotelBooking\obj\Debug\netcoreapp2.1\HotelBooking.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\HotelBooking\HotelBooking\obj\Debug\netcoreapp2.1\HotelBooking.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\HotelBooking\HotelBooking\obj\Debug\netcoreapp2.1\HotelBooking.AssemblyInfoInputs.cache
+C:\Users\walte\source\repos\HotelBooking\HotelBooking\obj\Debug\netcoreapp2.1\HotelBooking.AssemblyInfo.cs
+C:\Users\walte\source\repos\HotelBooking\HotelBooking\obj\Debug\netcoreapp2.1\HotelBooking.dll
+C:\Users\walte\source\repos\HotelBooking\HotelBooking\obj\Debug\netcoreapp2.1\HotelBooking.pdb
